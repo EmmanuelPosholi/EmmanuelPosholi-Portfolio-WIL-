@@ -128,31 +128,6 @@ Examples of user stories include:
 | US09 | As a host enterprise, I want to provide feedback so that candidate performance can be recorded. | Medium |
 | US10 | As a user with unreliable connectivity, I want my actions to synchronise when connectivity returns so that my work is not lost. | Medium |
 
-## User Stories and Tasks Evidence
-
-### Trello User Stories
-
-> **ATTACH SCREENSHOT HERE – Trello board showing your actual user stories. Try to make the card names readable in the screenshot.**
-
-```markdown
-![User Stories on Trello](images/user-stories-trello.png)
-```
-
-### Trello Tasks
-
-> **ATTACH SCREENSHOT HERE – Open one of the Trello user story cards and screenshot the checklist/tasks inside the card.**
-
-```markdown
-![User Story Tasks](images/user-story-tasks.png)
-```
-
-### Google Sheets Evidence
-
-> **ATTACH SCREENSHOT HERE – If your Google Sheet contains user stories, tasks, requirements, priorities or assigned team members, add a screenshot here.**
-
-```markdown
-![User Stories Google Sheet](images/user-stories-sheet.png)
-```
 
 ## Example User Story Breakdown
 
@@ -214,26 +189,6 @@ Items were prioritised based on their importance to the main application workflo
 | PB14 | Partner routing | Feature | Medium | Done |
 | PB15 | API connection configuration | Technical | Medium | Done |
 
-## Product Backlog Evidence
-
-### Google Sheets Product Backlog
-
-> **ATTACH SCREENSHOT HERE – Google Sheet showing the Product Backlog. Include columns such as backlog item, priority, status, assigned person or description if these exist in your actual sheet.**
-
-```markdown
-![Product Backlog Google Sheet](images/product-backlog-sheet.png)
-```
-
-### Trello Product Backlog
-
-> **ATTACH SCREENSHOT HERE – Trello board/list showing backlog cards before they were moved into a sprint or completed.**
-
-```markdown
-![Product Backlog Trello](images/product-backlog-trello.png)
-```
-
-> **IMPORTANT: If your Google Sheet already clearly shows the full Product Backlog, one good readable screenshot is better than adding several screenshots that show the same thing.**
-
 ## Reflection
 
 The Product Backlog helped me understand the importance of prioritisation during software development.
@@ -265,32 +220,6 @@ For example, a sprint focusing on candidate matching and assignment could contai
 | Save candidate assignments | Candidate Assignment | Done |
 | Test candidate matching | QA | Done |
 | Test assignment workflow | QA | Done |
-
-## Sprint Backlog Evidence
-
-### Sprint Planning – Google Sheets
-
-> **ATTACH SCREENSHOT HERE – Google Sheet showing the tasks selected for a specific sprint. Ideally the screenshot should show the sprint name/number, tasks, team member and status.**
-
-```markdown
-![Sprint Backlog Google Sheet](images/sprint-backlog-sheet.png)
-```
-
-### Sprint Board – Trello
-
-> **ATTACH SCREENSHOT HERE – Trello board showing the sprint workflow. A screenshot with columns such as To Do, In Progress and Done is very useful here.**
-
-```markdown
-![Sprint Board Trello](images/sprint-board.png)
-```
-
-### Completed Sprint
-
-> **ATTACH SCREENSHOT HERE – If possible, show tasks/cards that were moved into Done/Completed during the sprint.**
-
-```markdown
-![Completed Sprint Tasks](images/sprint-completed.png)
-```
 
 ## Reflection
 
@@ -436,11 +365,7 @@ Git and GitHub were used during development to manage source code and track chan
 
 ## GitHub Repository
 
-> **ATTACH SCREENSHOT HERE – GitHub repository homepage showing the YES Platform source code.**
-
-```markdown
-![GitHub Repository](images/github-repository.png)
-```
+<img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/2e12dbd3-10a5-42cf-9934-011b1d3890be" />
 
 ## Commit History
 
