@@ -90,15 +90,6 @@ The following evidence shows the planning and working agreements used by the tea
 <img width="537" height="517" alt="project charter3" src="https://github.com/user-attachments/assets/2788dfb8-d393-47ce-b57d-1e3839ef976d" />
 
 
-
-### Additional Team Planning Evidence
-
-> **OPTIONAL: ATTACH ANOTHER SCREENSHOT HERE – This could show team responsibilities, project planning or communication arrangements.**
-
-```markdown
-![Team Planning Evidence](images/team-planning.png)
-```
-
 ## Reflection
 
 Working within an Agile team helped me understand that software development involves much more than writing code.
@@ -323,35 +314,19 @@ The Agile Logbook records development activities, progress, challenges, testing 
 
 ### Google Sheets Logbook
 
-> **ATTACH SCREENSHOT HERE – Google Sheet showing your actual Agile logbook, daily activities, dates, work completed, challenges or progress.**
+<img width="1006" height="768" alt="google sheets" src="https://github.com/user-attachments/assets/077d2a18-1b6f-40af-896b-7eda6f5fbeca" />
 
-```markdown
-![Agile Logbook Google Sheet](images/agile-logbook-sheet.png)
-```
 
-### Trello Activity / Progress
+<img width="1357" height="521" alt="google sheets1" src="https://github.com/user-attachments/assets/9ed7d402-cc51-416f-ae75-a41e5273ae56" />
 
-> **ATTACH SCREENSHOT HERE – Trello activity showing cards moving through the development process or completed work.**
 
-```markdown
-![Agile Progress Trello](images/agile-progress-trello.png)
-```
 
 ### Stand-Up Evidence
 
-> **ATTACH SCREENSHOT HERE – If your Google Sheet/Trello contains stand-up information such as "What I did", "What I am doing", and "Blockers", attach it here.**
+<img width="1063" height="551" alt="standup report" src="https://github.com/user-attachments/assets/9fd24ed1-db23-47c0-8ba5-a7ad1f558e08" />
 
-```markdown
-![Daily Standup Evidence](images/daily-standup.png)
-```
+<img width="1119" height="485" alt="standup report 1png" src="https://github.com/user-attachments/assets/35836f26-7b50-43f3-9775-e9a25789d1cc" />
 
-### Sprint Retrospective
-
-> **ATTACH SCREENSHOT HERE – If you recorded sprint retrospective notes, attach a screenshot showing what went well, what did not go well and what could be improved.**
-
-```markdown
-![Sprint Retrospective](images/sprint-retrospective.png)
-```
 
 ## Example Logbook Entry
 
@@ -437,76 +412,23 @@ This section demonstrates the actual YES Platform that was developed.
 ## Role Selection
 
 > **ATTACH APP SCREENSHOT HERE – Youth / Host role selection screen.**
+> 
+<img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/69b02ce7-795b-41bb-9016-32db28b8adc3" />
 
-```markdown
-![YES Platform Role Selection](images/role-selection.png)
-```
 
 ## Youth Onboarding
 
-> **ATTACH APP SCREENSHOT HERE – Youth registration/onboarding screen.**
-
-```markdown
-![Youth Onboarding](images/youth-onboarding.png)
-```
-
 ## Youth Dashboard
 
-> **ATTACH APP SCREENSHOT HERE – Main Youth Dashboard.**
+<img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/14ad136f-d586-4053-8a61-60a53b0bdb7f" />
 
-```markdown
-![Youth Dashboard](images/youth-dashboard.png)
-```
-
-## Host Dashboard
-
-> **ATTACH APP SCREENSHOT HERE – Main Host/SME Dashboard.**
-
-```markdown
-![Host Dashboard](images/host-dashboard.png)
-```
 
 ## Task Creation
 
 > **ATTACH APP SCREENSHOT HERE – Host creating a new task/opportunity.**
 
-```markdown
-![Host Task Creation](images/task-creation.png)
-```
+<img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/9bcc8197-63d3-4b01-8b22-4e71604974c9" />
 
-## Candidate Matching
-
-> **ATTACH APP SCREENSHOT HERE – AI/matching results showing recommended candidates.**
-
-```markdown
-![Candidate Matching](images/candidate-matching.png)
-```
-
-## Candidate Profile
-
-> **ATTACH APP SCREENSHOT HERE – Host viewing a candidate profile and skills.**
-
-```markdown
-![Candidate Profile](images/candidate-profile.png)
-```
-
-## Weekly Logs
-
-> **ATTACH APP SCREENSHOT HERE – Youth weekly activity/log submission.**
-
-```markdown
-![Weekly Activity Log](images/weekly-log.png)
-```
-
-## Host Tracking
-
-> **ATTACH APP SCREENSHOT HERE – Host tracking an assigned candidate.**
-
-```markdown
-![Host Candidate Tracking](images/host-tracking.png)
-```
-
----
 
 # 7. GitHub Development Evidence
 
@@ -522,21 +444,8 @@ Git and GitHub were used during development to manage source code and track chan
 
 ## Commit History
 
-> **ATTACH SCREENSHOT HERE – GitHub commit history showing development contributions.**
+<img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/c20a93dd-19d1-45ad-b1ed-4120057b8b5b" />
 
-```markdown
-![GitHub Commit History](images/github-commits.png)
-```
-
-## Code Evidence
-
-> **ATTACH SCREENSHOT HERE – Example of code you personally worked on. Choose something meaningful rather than a random file.**
-
-```markdown
-![Development Code Evidence](images/code-evidence.png)
-```
-
----
 
 # 8. Skills Developed
 
