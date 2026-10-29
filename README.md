@@ -1,8 +1,8 @@
 # EmmanuelPosholi-Portfolio-WIL-
 
 # Student: Emmanuel Posholi 
-Student Number: 222144408
-Assessement: Project Presentation 3 Github Portfolio
+# Student Number: 222144408
+# Assessement: Project Presentation 3 Github Portfolio
 
 # YES Platform – Youth Employment Service
 
