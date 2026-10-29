@@ -340,8 +340,6 @@ This section demonstrates the actual YES Platform that was developed.
 
 ## Role Selection
 
-> **ATTACH APP SCREENSHOT HERE – Youth / Host role selection screen.**
-> 
 <img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/69b02ce7-795b-41bb-9016-32db28b8adc3" />
 
 
@@ -354,7 +352,6 @@ This section demonstrates the actual YES Platform that was developed.
 
 ## Task Creation
 
-> **ATTACH APP SCREENSHOT HERE – Host creating a new task/opportunity.**
 
 <img width="866" height="768" alt="image" src="https://github.com/user-attachments/assets/9bcc8197-63d3-4b01-8b22-4e71604974c9" />
 
