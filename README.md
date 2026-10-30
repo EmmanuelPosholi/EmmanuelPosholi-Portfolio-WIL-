@@ -88,12 +88,12 @@ The following evidence shows the planning and working agreements used by the tea
 
 ### Team Charter / Planning Screenshot
 
-> <img width="559" height="527" alt="project charter" src="https://github.com/user-attachments/assets/089b6bc4-2497-4c34-9746-fb9f847eaf4e" />
+> <img width="859" height="527" alt="project charter" src="https://github.com/user-attachments/assets/089b6bc4-2497-4c34-9746-fb9f847eaf4e" />
 
 
-<img width="559" height="527" alt="project charter2" src="https://github.com/user-attachments/assets/e57d8c22-19a7-409f-bec4-58d021f83f37" />
+<img width="859" height="527" alt="project charter2" src="https://github.com/user-attachments/assets/e57d8c22-19a7-409f-bec4-58d021f83f37" />
 
-<img width="537" height="517" alt="project charter3" src="https://github.com/user-attachments/assets/2788dfb8-d393-47ce-b57d-1e3839ef976d" />
+<img width="837" height="517" alt="project charter3" src="https://github.com/user-attachments/assets/2788dfb8-d393-47ce-b57d-1e3839ef976d" />
 
 
 ## Reflection
